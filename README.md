@@ -42,3 +42,18 @@ The recommended options for the 3D printing of the vehicle are as follows:
 |Support|ON (60 deg overhang angle)|
 |Outer Layers|>= 5|
 
+## Assembly
+3D printing assembly
+motor assembly
+
+## EDUV Software
+installation
+Testing code
+Testing
+
+## Platform Instructions
+Xammp
+ip configurations
+
+## Sea testing and Buoyancy
+
