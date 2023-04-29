@@ -1,0 +1,30 @@
+
+.main-header, .main-footer {
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 1.5em;
+}
+
+.main-header {
+    margin-top: 0;
+    margin-bottom: 2em;
+}
+
+.main-header h1 {
+    margin: 0;
+    background: #31ffd5;
+    padding: 0.5em 1em;
+}
+
+.main-header a {
+    color: #000;
+    text-decoration: none;
+}
+
+.main-footer {
+    margin-top: 2em;
+}
+
+
