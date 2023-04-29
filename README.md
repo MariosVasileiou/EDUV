@@ -15,6 +15,7 @@ A list of the basic components is quoted.
 - Submersible camera (Endoscope camera)
 - Raspberry Pi 4 Model B 2GB
 - PLA filament
+- bowl wax
 - miscellaneous cables and jumper wires
 
 
@@ -43,8 +44,23 @@ The recommended options for the 3D printing of the vehicle are as follows:
 |Outer Layers|>= 5|
 
 ## Assembly
-3D printing assembly
-motor assembly
+### Motor assembly
+![image](https://user-images.githubusercontent.com/52425561/235317928-74d58552-bbe8-4de9-96ad-37b2205ebc22.png)
+
+The steps to asseble the motors are as follows:
+- Bowl wax must be placed inside Part M_a in order to create pressure between the 3D-printed part and the motor
+- The motor is insered inside the part M_a
+- A cable must be insered through a small hole at part M_b
+- The cable must be soldered on the motored
+- Parts M_b is screwed at the part M_a
+
+### 3D printing assembly
+![image](https://user-images.githubusercontent.com/52425561/235318469-4da21b79-37d3-4763-8012-aac5c1a00c6b.png)
+To fix the motors on the side parts (P1 & P3) 4 screws must be screwed on the holes inside the 2 cylinders 
+
+![image](https://user-images.githubusercontent.com/52425561/235317876-f23c88f2-22c9-4229-ad01-d5564f05a7b6.png)
+To asseble the vehicle, 16 screws must be screwed into the 16 holes at the top and bottom of the parts P1 and P3 with the part P2 
+
 
 ## EDUV Software
 installation
