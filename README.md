@@ -60,12 +60,13 @@ The steps to asseble the motors are as follows:
 To fix the motors on the side parts (P1 & P3) 4 screws must be screwed on the holes inside the 2 cylinders.
 
 ![image](https://user-images.githubusercontent.com/52425561/235317876-f23c88f2-22c9-4229-ad01-d5564f05a7b6.png)
-To asseble the vehicle, 16 screws must be screwed into the 16 holes at the top and bottom of the parts P1 and P3 with the part P2 .
+To asseble the vehicle, 16 screws must be screwed into the 16 holes at the top and bottom of the parts P1 and P3 with the part P2.
 
 
 ## EDUV Software
 ### RPi Installation
 To install the firmware at Raspberry Pi please follow the instactions at the official webpage https://www.raspberrypi.com/documentation/computers/getting-started.html#setting-up-your-raspberry-pi
+Leave the predifined username and password, otherwise you have to configure them at the EDUV/Website/phpseclib1.0.9/Net/SSH1.php/
 
 ### Vehicle's software
 All the libraries needed for the code to be excecuted are preinstalled so you just need to copy the folder Python-code in desktop folder. 
@@ -74,7 +75,16 @@ All the libraries needed for the code to be excecuted are preinstalled so you ju
 ## Website Instructions
 To host the website at the PC Xammp is recommended. To install it please follow the instructions at the official webpage https://www.apachefriends.org/download.html 
 In order for someone to access the webpage must have your external ip address. Please find instructions: https://lifehacker.com/how-to-find-your-local-and-external-ip-address-5833108
-To access it, write at the url * [your_ip] /EDUVPlatform.php *
+To access it, write at the url *[your_ip] /EDUVPlatform.php*
 
-## Sea testing and Buoyancy
+## Buoyancy configuration
+To adjust the buoyancy you just have to put the vehicle at sea surface and depending if it dives or stays at the surface you have to insert inside corks/foam/bottle with air or insert small weights. 
+At testing we inserted plastic corks inside the parts P1 and P3
+## Connection
+In order to connect all the components you have to do the following steps:
+- Create a wifi network, so the RPi and the computer can connect. We used mobile hotspot
+- Connect both laptop and RPi at this network
+- Run XAMMP and enable apache
 
+You are set to go.
+Feel free to contact me for questions
