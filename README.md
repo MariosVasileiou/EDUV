@@ -1,6 +1,7 @@
 # EDUV Instructions
 
-This repository contains instructions on how to construct and utilize EDUV underwater vehicle along with its dedicated website.
+This repository contains instructions on how to construct and utilize EDUV underwater vehicle along with its dedicated website. 
+The python code, website, and 3D models installation steps have been simplified. 
 
 ## EDUV Basic components
 A list of the basic components is quoted. 
@@ -56,20 +57,24 @@ The steps to asseble the motors are as follows:
 
 ### 3D printing assembly
 ![image](https://user-images.githubusercontent.com/52425561/235318469-4da21b79-37d3-4763-8012-aac5c1a00c6b.png)
-To fix the motors on the side parts (P1 & P3) 4 screws must be screwed on the holes inside the 2 cylinders 
+To fix the motors on the side parts (P1 & P3) 4 screws must be screwed on the holes inside the 2 cylinders.
 
 ![image](https://user-images.githubusercontent.com/52425561/235317876-f23c88f2-22c9-4229-ad01-d5564f05a7b6.png)
-To asseble the vehicle, 16 screws must be screwed into the 16 holes at the top and bottom of the parts P1 and P3 with the part P2 
+To asseble the vehicle, 16 screws must be screwed into the 16 holes at the top and bottom of the parts P1 and P3 with the part P2 .
 
 
 ## EDUV Software
-installation
-Testing code
-Testing
+### RPi Installation
+To install the firmware at Raspberry Pi please follow the instactions at the official webpage https://www.raspberrypi.com/documentation/computers/getting-started.html#setting-up-your-raspberry-pi
 
-## Platform Instructions
-Xammp
-ip configurations
+### Vehicle's software
+All the libraries needed for the code to be excecuted are preinstalled so you just need to copy the folder Python-code in desktop folder. 
+(Further explanation inside the code as comments)
+
+## Website Instructions
+To host the website at the PC Xammp is recommended. To install it please follow the instructions at the official webpage https://www.apachefriends.org/download.html 
+In order for someone to access the webpage must have your external ip address. Please find instructions: https://lifehacker.com/how-to-find-your-local-and-external-ip-address-5833108
+To access it, write at the url * [your_ip] /EDUVPlatform.php *
 
 ## Sea testing and Buoyancy
 
