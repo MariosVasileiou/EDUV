@@ -4,9 +4,10 @@ If you find this material useful, you are asked to cite this article _M. Rousoul
 # License
 This material is a part of an open access article under the terms of the Creative Commons Attribution‐NonCommercial License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
 © 2023 The Authors. Computer Applications in Engineering Education published by Wiley Periodicals LLC.
+More information about the license can be found: https://creativecommons.org/licenses/by-nc/4.0/
 
 # Correspondence
-Marios Vasileiou
+Marios Vasileiou,
 Department of Information and Communication Systems Engineering, University of the Aegean, Samos 8320, Greece. 
 Email: mvasileiou@aegean.gr
 
