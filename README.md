@@ -1,3 +1,15 @@
+# Authorship
+If you find this material useful, you are asked to cite this article _M. Rousouliotis, M. Vasileiou, N. Manos, and E. Kavallieratou, Employing an underwater vehicle in education as a learning tool for Python programming, Comput. Appl. Eng. Educ. (2023), 1–18. https://doi.org/10.1002/cae.22693_.
+
+# License
+This material is a part of an open access article under the terms of the Creative Commons Attribution‐NonCommercial License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2023 The Authors. Computer Applications in Engineering Education published by Wiley Periodicals LLC.
+
+# Correspondence
+Marios Vasileiou
+Department of Information and Communication Systems Engineering, University of the Aegean, Samos 8320, Greece. 
+Email: mvasileiou@aegean.gr
+
 # EDUV Instructions
 
 This repository contains instructions on how to construct and utilize EDUV underwater vehicle along with its dedicated website. 
